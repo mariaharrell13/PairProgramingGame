@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.AssemblyInfo.cs
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\bin\Debug\net6.0\0_PairPrograming.exe
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\bin\Debug\net6.0\0_PairPrograming.deps.json
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\bin\Debug\net6.0\0_PairPrograming.runtimeconfig.json
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\bin\Debug\net6.0\0_PairPrograming.dll
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\bin\Debug\net6.0\ref\0_PairPrograming.dll
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\bin\Debug\net6.0\0_PairPrograming.pdb
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.dll
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\ref\0_PairPrograming.dll
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.pdb
+C:\ElevenFiftyProjects\CodingFoundations\assignments\01_PairPrograming\obj\Debug\net6.0\0_PairPrograming.genruntimeconfig.cache

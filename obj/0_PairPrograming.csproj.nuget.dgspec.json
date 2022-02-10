@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ElevenFiftyProjects\\CodingFoundations\\assignments\\01_PairPrograming\\0_PairPrograming.csproj": {}
+  },
+  "projects": {
+    "C:\\ElevenFiftyProjects\\CodingFoundations\\assignments\\01_PairPrograming\\0_PairPrograming.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\CodingFoundations\\assignments\\01_PairPrograming\\0_PairPrograming.csproj",
+        "projectName": "0_PairPrograming",
+        "projectPath": "C:\\ElevenFiftyProjects\\CodingFoundations\\assignments\\01_PairPrograming\\0_PairPrograming.csproj",
+        "packagesPath": "C:\\Users\\Babuh\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\CodingFoundations\\assignments\\01_PairPrograming\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Babuh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
